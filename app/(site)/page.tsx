@@ -27,7 +27,7 @@ export default function Home() {
           </h1>
       </div>
       <div>
-        List of Songs
+        List of Trending Songs
       </div>
       </div>
     </div>
